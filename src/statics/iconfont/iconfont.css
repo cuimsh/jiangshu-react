@@ -1,0 +1,16 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfont.eot?t=1588988410263'); /* IE9 */
+  src: url('./iconfont.eot?t=1588988410263#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAREAAsAAAAACFAAAAP4AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqECINZATYCJAMQCwoABCAFhG0HSxtOB1GUD0qF7EdCxWOhvxTE5CQPhNi4dha+jQf6Mfe+bPzN0SRJvHFUvJlcN0kdrmtqlM51L2E//LZ8iN4cXBR3W7Oqq2xSwcAhLiJDVv3X0QCAAf3/uHfatATmsyyXP3ZFYy0a3IUBxlsDG3uQFbik3jB2QUvcTEDduN6QzYy8MtDLzF4B4UEwUKDP6OWG7KAIqhUTM4Qn0ClxouYKgMfg++EfQlZAVElgbrV/lc5C0lfEm9foiP9BXRoJI6azgk0jYQHIhJtK+xk0ii9A1dXmWstAUUSmqhv15vX/HiKPoinWXx5BEglVMDVNJF5KJL4iHBWBr1F4lfY1zBDhg+gKTHsHfsGUjHp0FsWiJ/DFzj6uHazCtQwz4dU189phzy2qqMP4ZIB6wEaewCZdQ0ZWVo4MDogr37MB2ohPPo0gg7F1d8rW7Ggz7xA2qfsB6cF37hDEke695ywk5uKT/eefTsTXdrv7slJ92M5/5CbjnWcVc/xUtXL+4nnrfO/cKSNLq2rsfP+9dwl8vtpLVYm59wZXqM4Kp3OUJuV371aWz528eaTcGUnYcvV3cTpP8Jk3u6fd5Nz/06lOMaGwXJNCCwmq9neCXTkbFYjokgOkHhWCWz2emxTzqqFSudyS+N2qy8cu7SDu9Ai06FsXISrWO+oq6duWXrpjV/SguPnuxyN9CuL6ZoU6WL3bIKSstebcjTxdF/n84U17+fJuLn6Piezje32FZN2zmcklR49KeZz3dt/R5pwDe1KK9dOiR0XIGzfljNvhF9rg9FezzWWBlg1713FlbXURhDZk1aqkMtcLeTkFmReRovT8LK8LCeXJpec61kSuW3O544SOMaVIoSAWul5EFBGfE/HVGkEAG0DvfzqBQu/f/7QoOhKAtKW5/cM72f7eubzRI+5rwR849Pmo568gtzv+1wiV+L1cnox3WqNMQ84Kp1Gn7Z6QHRi9X0RdHT3oHvBkCt2wmklQDCcQ9RmDpJjgZ/ECVDQsQVWxAnXzMqc3DJKhQm4OzBkLIOjaDlHbByRdV/lZ/BgqRryFqu4S1J0GnwUbpnaLpcocpXAsSQ8kBUay8rZJwcLsEs7gMFNymgqkFZxsF0JkcEBQPpXJWTl5iiH2foYQReFJXpYsZAbYjjObJdImSyLHKAFGRbHFBAbyVW8KYCQLYDbIOBQFh0WiDUQSMCRWvFdcgRU+X4Jj4GBGkRvyquoVODI7oXFSsABBHfiZGmunvFtpbtePQQiFgsfdeDKJBSkDWjlmKy4h2arbiTgMRQDjgKhNjEBUiO+qCVheZ3nDJVBnHpiDBkERLaKDuEY1G+iwUBItePOU1cBSouC1aDQ6KJqyBgMA') format('woff2'),
+  url('./iconfont.woff?t=1588988410263') format('woff'),
+  url('./iconfont.ttf?t=1588988410263') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfont.svg?t=1588988410263#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
