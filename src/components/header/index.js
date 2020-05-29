@@ -40,7 +40,7 @@ const mapStateToProps = (state)=>{
   return{
     // focused: state.header.focused
     // state为immutable对象
-    focused: state.header.get('focused')
+    focused: state.getIn(['header', 'focused'])
   };
 };
 
